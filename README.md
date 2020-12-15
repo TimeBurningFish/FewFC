@@ -82,6 +82,8 @@ If you use the dataset or the code, please cite this paper:
   year      = {2021},
 }
 ```
+## License
+This content is authorized under the "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)" license
 
 
 
