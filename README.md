@@ -77,11 +77,7 @@ If you use the dataset or the code, please cite this paper:
                Jinlong Li
                },
   title     = {What the role is vs. What plays the role: Semi-supervised Event Argument Extraction via Dual Question Answering},
-  booktitle = {The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}
-               2019, The Thirty-Third Innovative Applications of Artificial Intelligence
-               Conference, {IAAI} 2021, The Ninth {AAAI} Symposium on Educational
-               Advances in Artificial Intelligence, {EAAI} 2021, Honolulu, Hawaii,
-               USA, January 27 - February 1, 2021},
+  booktitle = {In AAAI-21 AAAI Conference on Artificial Intelligence},
   publisher = {{AAAI} Press},
   year      = {2021},
 }
