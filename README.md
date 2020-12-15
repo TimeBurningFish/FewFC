@@ -83,8 +83,7 @@ If you use the dataset or the code, please cite this paper:
 }
 ```
 ## License
-This content is authorized under the "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)" license
-
+Copyright: This data set is released by the nlp group of the Institute of Automation of the Chinese Academy of Sciences, collected by China Merchants Bank, based on the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license Authorize.
 
 
 
