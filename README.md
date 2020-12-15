@@ -1,5 +1,5 @@
 # FewFC
-* FFew-shot Financial Chinese event extraction datase
+* Few-shot Financial Chinese event extraction datase
 --------
 ## Important
 * In order to accelerate the research on few-shot event extraction, incremental event extraction and low resources event extraction, we introduce DocRED, a new Chinese Financial sentence-level event extraction
@@ -7,7 +7,7 @@
   This data set is also used for [CCKS TASK 4 evaluation](https://biendata.xyz/competition/ccks_2020_4_1/).
 
 --------
-##Details
+## Details
 
 The data set contains 10 financial field event types and 8982 sentences.
 
