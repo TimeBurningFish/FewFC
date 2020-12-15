@@ -1,3 +1,2 @@
 # FewFC
 
-license:gpl
