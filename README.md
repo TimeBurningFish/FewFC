@@ -2,7 +2,7 @@
 * Few-shot Financial Chinese event extraction datase
 --------
 ## Important
-* In order to accelerate the research on few-shot event extraction, incremental event extraction and low resources event extraction, we introduce DocRED, a new Chinese Financial sentence-level event extraction
+* In order to accelerate the research on few-shot event extraction, incremental event extraction and low resources event extraction, we introduce FewFC, a new Chinese Financial sentence-level event extraction
 * dataset constructed from news reports on the Internet and announcements issued by listed companies.
   This data set is also used for [CCKS TASK 4 evaluation](https://biendata.xyz/competition/ccks_2020_4_1/).
 
