@@ -6,7 +6,7 @@
 * dataset constructed from news reports on the Internet and announcements issued by listed companies.
   This data set is also used for [CCKS TASK 3 evaluation](https://biendata.xyz/competition/ccks_2020_3/).
 
---------、
+--------
 ## Details
 
 The data set contains 10 financial field event types and 8982 sentences.
@@ -60,6 +60,8 @@ The data set contains 10 financial field event types and 8982 sentences.
 > > **test_trans.json**
 > >
 > > * Test set from target domain with all 5 event types. Part of the test_trans.json in rearranged dataset.
+> ### Partial Dataset
+> * Data division used in the paper “**What the role is vs. What plays the role:Semi-supervised Event Argument Extraction via Dual Question Answering**”
 
 ---
 
